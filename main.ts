@@ -1,3 +1,6 @@
+// ************** 100 days coding challenge "1 day" ************** //
+
+
 // Q1 Install Node.js, TypeScript and VS Code on your computer/Laptop.//
 
 /*Q2 Personal Message: Store a person’s name in a variable and print a message to them, 
